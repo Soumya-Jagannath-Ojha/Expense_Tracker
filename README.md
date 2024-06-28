@@ -6,16 +6,16 @@
 
 ## Features
 
-    - Add Expense/Income: Users can add a description and amount for their expenses and incomes.
-    - Visualization: The application displays a pie chart representing the - user's income and expenses.
-    - Records: View a detailed list of all income and expense records.
-    - Total Calculation: Automatically calculates and displays the total income and total     expenses.
+- Add Expense/Income: Users can add a description and amount for their expenses and incomes.
+- Visualization: The application displays a pie chart representing the - user's income and expenses.
+- Records: View a detailed list of all income and expense records.
+- Total Calculation: Automatically calculates and displays the total income and total     expenses.
 
 ## Technologies Used
 
-    - React: For building the user interface.
-    - Vue.js: For managing and displaying the data.
-    - Chart.js: For rendering the pie chart
+- React: For building the user interface.
+- Vue.js: For managing and displaying the data.
+- Chart.js: For rendering the pie chart
 
 ## Instalation
 
@@ -50,10 +50,10 @@ Select whether it is an income or an expense. - Submit the form to add the trans
 
 2.  **View Records:**
 
-        - Navigate to the "Records" page.
+    - Navigate to the "Records" page.
 
-    View the list of all your income and expense records.
+    - View the list of all your income and expense records.
 
 3.  **Visualize Data:**
 
-    -The pie chart on the dashboard will update to reflect your income and expenses.
+    - The pie chart on the dashboard will update to reflect your income and expenses.
