@@ -1,8 +1,9 @@
 # Expense Tracker
 
 ## Overview
-
+    ```
     Expense Tracker is a web application built using React and Vue.js that allows users to manage their expenses efficiently. The application provides features to add descriptions and amounts for expenses and incomes, visualize the data using a pie chart, and view records of all income and expenses along with the total amounts.
+    ```
 
 ## Features
 
